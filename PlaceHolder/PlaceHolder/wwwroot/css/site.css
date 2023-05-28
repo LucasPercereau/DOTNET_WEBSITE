@@ -15,4 +15,18 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #576CBC;
 }
+
+.navbar {
+  background-color: #0B2447;
+}
+
+.navbar-elem {
+  color: #A5D7E8;
+}
+
+.footer {
+  background-color: #19376D;
+}
+
